@@ -8,11 +8,11 @@ import NotFound from './pages/NotFound.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Nike-Landing-Page/",
     element: <App />
   },
   {
-    path: "/products/:productId",
+    path: "/Nike-Landing-Page//products/:productId",
     element: <ProductView />
   },
   {

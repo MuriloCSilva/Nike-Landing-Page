@@ -12,7 +12,7 @@ const router = createBrowserRouter([
     element: <App />
   },
   {
-    path: "/Nike-Landing-Page//products/:productId",
+    path: "/Nike-Landing-Page/products/:productId",
     element: <ProductView />
   },
   {

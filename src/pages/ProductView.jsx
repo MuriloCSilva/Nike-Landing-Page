@@ -18,7 +18,7 @@ const ProductView = () => {
           src={headerLogo} 
           alt="" 
         />
-        <Link to="/">
+        <Link to="/Nike-Landing-Page/">
           <Button 
             label="Go back"
             backgroundColor="bg-white"

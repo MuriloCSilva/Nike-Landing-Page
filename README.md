@@ -4,13 +4,7 @@
       <img src="https://media.licdn.com/dms/image/D4D16AQFyRNrU6MoOPg/profile-displaybackgroundimage-shrink_350_1400/0/1707246132276?e=1718841600&v=beta&t=0ieZGYmx1Zt6tVuaquphGDLt6-QnnH-mZkLxpEdd390" alt="Linkedin Banner">
     </a>
   <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
-  <div>
-    <img aling="center" src="https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logoColor=white&logo=reactjs&color=06B6D4" alt="website" />
-  </div><br><br>
+  <br />
 
   <h3 align="center">Nike Landing Page</h3>
   

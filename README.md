@@ -13,7 +13,7 @@
   <br/>
 
    <div align="center">
-     This website was built using ReactJS and Tailwind CSS following the tutorial from the [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) channel. Upon the knowledge gained from the video, I decided to go further and add enhancements to it, such as animations, special effects, individual pages for popular products, etc.
+     This website was built using ReactJS and Tailwind CSS following the tutorial from the https://www.youtube.com/@javascriptmastery channel. Upon the knowledge gained from the video, I decided to go further and add enhancements to it, such as animations, special effects, individual pages for popular products, etc.
     </div>
 </div>
 

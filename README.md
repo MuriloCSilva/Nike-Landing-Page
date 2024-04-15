@@ -10,6 +10,7 @@
   
   <img align="center" src="https://i.imgur.com/VZqC4wJ.png4" alt="reactjs" />
   <br />
+  <br/>
 
    <div align="center">
      This website was built using ReactJS and Tailwind CSS following the tutorial from the JavaScript Mastery channel. Upon the knowledge gained from the video, I decided to go further and add enhancements to it, such as animations, special effects, individual pages for popular products, etc.

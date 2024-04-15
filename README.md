@@ -9,11 +9,12 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
   <div>
-    <img src="https://i.imgur.com/VZqC4wJ.png4" alt="reactjs" />
-  </div>
+    <img aling="center" src="https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logoColor=white&logo=reactjs&color=06B6D4" alt="website" />
+  </div><br><br>
 
   <h3 align="center">Nike Landing Page</h3>
-  <img aling="center" src="https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logoColor=white&logo=reactjs&color=06B6D4" alt="website" />
+  
+  <img align="center" src="https://i.imgur.com/VZqC4wJ.png4" alt="reactjs" />
 
    <div align="center">
      This website was built using ReactJS and Tailwind CSS following the tutorial from the JavaScript Mastery channel. Upon the knowledge gained from the video, I decided to go further and add enhancements to it, such as animations, special effects, individual pages for popular products, etc.
